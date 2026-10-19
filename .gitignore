@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.coverage
+htmlcov/
+*.log
+defect_report*.md
+rtm_report*.md
+rtm_report*.html
+.DS_Store
+docs/*ENTRETIEN*
+docs/FICHE_ENTRETIEN_NOTION.md
+docs/GUIDE_PREPARATION_ENTRETIEN_QA.md
